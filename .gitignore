@@ -1,0 +1,13 @@
+/*.project
+/.settings/*.prefs
+/MOD-PERSISTENCE-SERVICE/.project
+/MOD-PERSISTENCE-SERVICE/*.classpath
+/MOD-PERSISTENCE-SERVICE/.settings/*.prefs
+/MOD-WEB/*.classpath
+/MOD-WEB/*.project
+/MOD-WEB/.settings/*.jsdtscope
+/MOD-WEB/.settings/*.prefs
+/MOD-WEB/.settings/*.component
+/MOD-WEB/.settings/*.xml
+/MOD-WEB/.settings/*.container
+/MOD-WEB/.settings/*.name
